@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^16.4.0",
+    "mhartl-palindrome": "^0.2.3",
+    "request": "^2.88.2",
+    "urllib": "^2.36.1"
+  }
+}
